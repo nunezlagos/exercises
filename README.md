@@ -1,1 +1,1 @@
-En este repositorio se postearan todos los ejercicios y pruebas tecnicas relacionadas con JavaScript
+En este repositorio se postearan todos los ejercicios y pruebas tecnicas relacionadas con JavaScript. desde lo más básico a un nivel avanzado todo esto orientado a ejercicios con un transforndo de practicar algoritmos
